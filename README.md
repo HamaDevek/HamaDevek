@@ -3,8 +3,6 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/HamaDevek/count.svg">
-
 [![GitHub followers](https://img.shields.io/github/followers/HamaDevek.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Hama;I'm+Full+Stack+developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
