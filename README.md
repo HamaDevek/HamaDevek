@@ -38,7 +38,7 @@
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HamaDevek&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://https://github-readme-activity-graph.cyclic.app/graph?username=HamaDevek&theme=gruvbox&hide_border=true&area=true)
 
 
 
