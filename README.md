@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/HamaDevek.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
@@ -12,11 +9,11 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects & Project Management
-- 🌱 I've 2+ Years of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
+- 🌱 I've 2+ Years of professional experience worked at 5Gen Solutions and built 10+ cross-platform applications in Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr & Jobstudio.
 - 💬 Ask me about Programming
-- 📫 I am also a technical writer at Medium 
+- 📫 I am also a technical writer at Medium
 
 <p>Connect with me on
 <br>	
@@ -28,13 +25,10 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/HamayKamar4n"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-
 <br>
 </p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am Superman. 🦸🏻‍♂️ 
-
 <hr>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/HamaDevek/github-readme-activity-graph)
 
@@ -43,7 +37,7 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  
+
 
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -60,35 +54,56 @@
 <a href="https://www.javascript.com/">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
-
+      &emsp;
+<a href="https://www.nodejs.com/">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+      &emsp;
+<a href="https://www.php.com/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+      &emsp;
+<a href="https://www.go.dev/">
+    <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
 
 </p>
 
 ### 👉 Frameworks
+
 <p align="left"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
    &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </a>
   &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <a href="https://reactjs.org" target="_blank"> 
+    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+   &emsp;
+  <a href="https://laravel.com" target="_blank"> 
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://jquery.com" target="_blank"> 
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="https://tailwindcss.com" target="_blank"> 
+    <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -97,11 +112,13 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
+    <a href="https://www.mongodb.com"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
 
- ### 👉 Software & Tools
- 
+### 👉 Software & Tools
+
 <p>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
@@ -129,14 +146,23 @@
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
+    <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
+    &emsp;
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="MAC OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"></a>
+    &emsp;
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
-
 
 <br/>
-
-------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
