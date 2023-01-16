@@ -38,9 +38,7 @@
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://https://github-readme-activity-graph.cyclic.app/graph?username=HamaDevek&theme=gruvbox&hide_border=true&area=true)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HamaDevek)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ My Skills
 
