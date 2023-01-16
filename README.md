@@ -32,7 +32,7 @@
 <hr>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/HamaDevek/github-readme-activity-graph)
+[![HamaDevek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HamaDevek&theme=github-compact)](https://github.com/HamaDevek/github-readme-activity-graph)
 
 ## 🛠️ My Skills
 
@@ -168,3 +168,5 @@
 </p>
 
 <br/>
+
+---
