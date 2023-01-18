@@ -6,7 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=HamaDevek&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamaDevek&theme=react" width="450"/>
 
 <h3> Here's some fun facts about me: </h3>
 
