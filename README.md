@@ -1,5 +1,4 @@
-### So if you need a web app built with care
-### Just call on me, the Laravel king, I'll be there.
+### Hi There
 
 [![GitHub followers](https://img.shields.io/github/followers/HamaDevek.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
